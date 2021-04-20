@@ -1,0 +1,35 @@
+.search{
+    width:180px;
+    height:25px;
+    background:white;
+    border-radius: 10px;
+    color:teal; 
+    font-weight: bold;
+    border:2px solid teal;
+    font-size: large;
+}
+.plus{
+    width: 50px;
+    height: 50px;
+    background: cyan;
+    border-radius: 50%;
+    font-size: larger;
+    color:white ;
+    border: 0px;
+}
+
+.create{
+    width: 250px;
+    height: 50px;
+    background: rgb(13, 145, 228);
+    font-size: larger;
+    color: linen;
+}
+
+div{
+
+
+
+
+
+    margin: 10px;}
